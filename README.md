@@ -33,3 +33,8 @@ If you're using TS directly, import `typescript/registry.ts` into your project.
 - For runtime safety, run `verify` once per environment and cache results.
 
 Generated: 2025-12-29T01:14:08.599910Z
+
+## License
+
+Copyright (c) 2026 EchoForge Studios. All rights reserved.
+No use or copy is permitted without a written license. See [LICENSE](LICENSE).
