@@ -36,5 +36,6 @@ Generated: 2025-12-29T01:14:08.599910Z
 
 ## License
 
-Copyright (c) 2026 EchoForge Studios. All rights reserved.
-No use or copy is permitted without a written license. See [LICENSE](LICENSE).
+Copyright (c) 2026 EchoForge Studios in the toolkit only.
+`addresses.json` is a normalized copy of Ocean Protocol's published address book and is not claimed here.
+See [LICENSE](LICENSE).
